@@ -34,6 +34,7 @@ setup_kwargs = {
     'author': 'bmcorser',
     'author_email': 'bmcorser@gmail.com',
     'url': 'https://github.com/bmcorser/expr',
+    'description': 'Draw little expression graphs',
     'name': 'expr',
     'packages': ['expr'],
     'install_requires': ['pydot'],
